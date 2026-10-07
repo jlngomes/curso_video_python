@@ -1,5 +1,5 @@
 
-#--- Exercício 061 ---#
+#--- Exercício 062 ---#
 
 """
 Super Progressão Aritmética v3.0
